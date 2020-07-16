@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hkwm.github.io/</id>
     <title>hkwm</title>
-    <updated>2020-07-15T13:19:12.074Z</updated>
+    <updated>2020-07-16T15:07:46.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hkwm.github.io/"/>
     <link rel="self" href="https://hkwm.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, hkwm</rights>
     <entry>
         <title type="html"><![CDATA[Hello hkwm]]></title>
-        <id>https://hkwm.github.io/post/hello-gridea/</id>
-        <link href="https://hkwm.github.io/post/hello-gridea/">
+        <id>https://hkwm.github.io/post/hello-hkwm/</id>
+        <link href="https://hkwm.github.io/post/hello-hkwm/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>😘 Enjoy~</p>
